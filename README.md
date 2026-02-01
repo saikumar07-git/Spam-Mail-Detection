@@ -15,13 +15,7 @@ The Spam Email Classifier is a machine learning project that uses Natural Langua
 
 ⚡ Can be integrated into email filtering systems and automated messaging platforms
 
-🛠️ Tech Stack
 
-Python 🐍
-
-Scikit-learn / NLTK / Pandas / NumPy
-
-Jupyter Notebook / Google Colab
 
 
 📌 Use Cases
@@ -32,6 +26,6 @@ Jupyter Notebook / Google Colab
 
 ✅ Automated moderation systems
 
-📜 License
+
 
 <img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/70390819-2ff7-4626-a3f1-d56022b4b2cb" />
